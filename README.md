@@ -57,16 +57,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com" target="blank">
+  <a href="https://facebook.com/vhkhuyen" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VuKhuyen-facebook" />
   </a>
   <a href="https://www.youtube.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="VuKhuyen-youtube" />
   </a>
-  <a href="https://www.linkedin.com" target="blank">
+  <a href="https://www.linkedin.com/vukhuyen" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VuKhuyen-linkedin" />
   </a>
-  <a href="https://instagram.com" target="blank">
+  <a href="https://instagram.com/vukhuyen.18" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VuKhuyen-instagram" />
   </a>
   <a href="mailto:vhkhuyen1810@gmail.com" target="top">
